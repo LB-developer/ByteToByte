@@ -1,0 +1,6 @@
+@ByteToByte_HostAddress = http://localhost:5048
+
+GET {{ByteToByte_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
